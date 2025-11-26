@@ -133,11 +133,20 @@ docker-compose up --build
 
 ---
 
-## 🖼 Screenshots (To Add)
+## 🖼 Screenshots 
 
-Recommended:
-- EDA Visualization (distribution, heatmaps, price trends)
-- UI Prediction Interface + Result Insights
+<img width="2877" height="1796" alt="11" src="https://github.com/user-attachments/assets/cea1175e-3141-47b1-8139-8749726f5bfc" />
+<img width="2878" height="1788" alt="10" src="https://github.com/user-attachments/assets/f3900366-127b-4e2d-9af5-c606dd397e39" />
+<img width="2878" height="1799" alt="9" src="https://github.com/user-attachments/assets/24dd6c8c-175d-4794-8314-386d5c0b01a6" />
+<img width="2878" height="1799" alt="9" src="https://github.com/user-attachments/assets/743335cc-511b-4677-9802-f1ec4f575ff8" />
+<img width="1173" height="1235" alt="2" src="https://github.com/user-attachments/assets/10634afd-1c9c-4b9e-b9a6-2116ed4e2d8f" />
+<img width="764" height="627" alt="4" src="https://github.com/user-attachments/assets/ade86e21-f414-4d1a-8dce-e729248fc343" />
+<img width="741" height="776" alt="7" src="https://github.com/user-attachments/assets/2a2a0949-a1df-4bd5-807c-c099491577f4" />
+<img width="753" height="639" alt="5" src="https://github.com/user-attachments/assets/eb2cd171-9683-40cc-a63f-88e154c697b4" />
+
+
+
+
 
 ---
 
