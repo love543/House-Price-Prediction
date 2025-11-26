@@ -1,4 +1,6 @@
 # 🏠 Delhi House Price Predictor  
+![WhatsApp Image 2025-11-27 at 1 04 07 AM](https://github.com/user-attachments/assets/a005fe47-254a-4ac4-b08b-c2ba925f4e4f)
+
 ### Real-Time Property Valuation using Machine Learning + Full-Stack Web App
 
 Predict residential property prices in Delhi by leveraging machine learning and a modern, interactive web interface. Buyers, sellers, and analysts can get instant, data-driven price estimates based on location and property attributes.
@@ -25,32 +27,34 @@ This project provides **real-time house price predictions** for Delhi using a **
 
 ## 📁 Project Structure
 
+```bash
 house-price-prediction/
 ├── README.md
 ├── data/
-│ └── delhi_house_data.csv # Training dataset
+│   └── delhi_house_data.csv            # Training dataset
 ├── backend/
-│ ├── app/
-│ │ ├── main.py # FastAPI app
-│ │ ├── ml_model.py # ML model logic
-│ │ ├── schemas.py # API data schemas
-│ │ └── config.py # Configs
-│ ├── train_model.py # Model training script
-│ ├── requirements.txt # Python dependencies
-│ ├── Dockerfile
-│ └── models/
-│ ├── random_forest_model.pkl
-│ └── encoders.pkl
+│   ├── app/
+│   │   ├── main.py                     # FastAPI app
+│   │   ├── ml_model.py                 # ML model logic
+│   │   ├── schemas.py                  # API data schemas
+│   │   └── config.py                   # Configs
+│   ├── train_model.py                  # Model training script
+│   ├── requirements.txt                # Python dependencies
+│   ├── Dockerfile
+│   └── models/
+│       ├── random_forest_model.pkl
+│       └── encoders.pkl
 ├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── services/
-│ │ └── types/
-│ ├── package.json
-│ ├── tsconfig.json
-│ ├── tailwind.config.js
-│ └── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── services/
+│   │   └── types/
+│   ├── package.json
+│   ├── tsconfig.json
+│   ├── tailwind.config.js
+│   └── public/
 ├── docker-compose.yml
+```
 
 
 ---
@@ -150,8 +154,7 @@ Recommended:
 ## 👨‍💻 Author
 
 **Love Sharma (21CS2010)**  
-Branch: **IDD-21**  
-GitHub: *your-github-username*
+GitHub: *love543*
 
 ---
 
