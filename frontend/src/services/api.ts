@@ -5,19 +5,17 @@ const API_BASE_URL =
   import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
 const api = axios.create({
-  baseURL: API_BASE_URL,
-  headers: {
-    'Content-Type': 'application/json',
-  },
+  baseURL: `${API_BASE_URL}/api/v1`,
+  headers: { 'Content-Type': 'application/json' },
 });
 
 export const predictPrice = async (data: PredictionRequest): Promise<PredictionResponse> => {
-  const response = await api.post<PredictionResponse>('/predict', data);
+  const response = await api.post('/predict', data);
   return response.data;
 };
 
 export const getOptions = async (): Promise<OptionsResponse> => {
-  const response = await api.get<OptionsResponse>('/options');
+  const response = await api.get('/options');
   return response.data;
 };
 
