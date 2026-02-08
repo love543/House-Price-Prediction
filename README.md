@@ -103,6 +103,9 @@ npm run dev
 
 Visit UI: http://localhost:5173
 
+Visit website : https://house-price-prediction-o1ks.vercel.app/
+as it is deployed over free services, so can take a minute to load backend.
+
 ### 🐳 Optional: Docker Deployment
 
 docker-compose up --build
